@@ -55,3 +55,5 @@ def over?(board)
     return false
 end
 
+winner(board)
+  
