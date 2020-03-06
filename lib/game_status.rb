@@ -49,4 +49,3 @@ def draw?(board)
 end
     
     
-    
